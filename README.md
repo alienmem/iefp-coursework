@@ -21,31 +21,55 @@ Year-long government-funded professional certification program designed to train
 ---
 
 ## 🗂 Repository Structure
+🔄 Current ✅ Completed
 ```text
 iefp-coursework/
-├── c-programming/
-│   ├── fundamentals/        ✅ Completed
-│   ├── advanced/            🔄 Current
-│   └── projects/
-├── databases/
-│   ├── mysql-basics/        ✅ Completed
-│   ├── normalization/       🔄 Current
-│   ├── xampp-setup/
-│   └── projects/
-├── web-development/
-│   ├── html-css/            🔄 Current
-│   ├── php/                 🔄 Current
-│   │   ├── basics/
-│   │   ├── forms/
-│   │   ├── sessions/
-│   │   └── mysql-integration/
-│   ├── javascript/
-│   └── projects/
-├── oop/
+├── computer-architecture/
+│   ├── 0769-internal-computer-architecture/     ✅ Completed
+│   ├── 0770-devices-and-peripherals/            ✅ Completed
+│   ├── 0771-network-connections/                ✅ Completed
+│   ├── 0797-operating-systems-typologies/       ✅ Completed
+│   ├── 0798-utilities/                          ✅ Completed
+│   ├── 0799-local-area-networks/                ✅ Completed
+│   ├── 0800-additional-network-services/        ✅ Completed
+│   └── 0801-local-network-administration/       ✅ Completed
+│
+├── computer-fundamentals/
+│   ├── 0802-computational-processing/           ✅ Completed
+│   ├── 7846-computing-basic-concepts/           ✅ Completed
+│   ├── 0804-algorithms/                         ✅ Completed
+│   ├── 0805-data-structures/                    ✅ Completed
+│   └── 0806-programming-methodology-principles/ ✅ Completed
+│
+├── programming/
+│   ├── c/
+│   │   ├── 0809-c-programming-basics/           ✅ Completed
+│   │   └── 0810-c-cpp-programming-advanced/     🔄 Current
+│   ├── python/
+│   │   ├── 10793-python-fundamentals/           ✅ Completed
+│   │   └── 10794-advanced-python-programming/   ✅ Completed
 │   ├── java/
+│   │   ├── 0816-distributed-systems-programming-java/
+│   │   └── 10791-web-application-development-java/
 │   ├── csharp/
-│   └── python/
-└── final-project/
+│   │   ├── 3935-csharp-programming/
+│   │   └── 10792-aspnet-core-mvc-programming/
+│   └── 10795-software-development-security/     🔄 Current
+│
+├── databases/
+│   ├── 10788-sql-language-fundamentals/         ✅ Completed
+│   └── 3933-database-administration-for-programmers/     🔄 Current
+│
+├── systems-analysis/
+│   └── 0811-systems-analysis/                   ✅ Completed
+│
+├── project/
+│   └── 10790-programming-project/
+│
+└── work-based-learning/
+    ├── internship/
+    └── final-report/
+
 ```
 
 ---
