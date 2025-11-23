@@ -1,177 +1,160 @@
-# PROFESSIONAL PROGRAMMING PORTFOLIO 🎓
+# Professional Programming Portfolio
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-> Professional Computer Programming Certification (EFA Programador Informático) - IEFP Portugal
+IEFP Level 4 Programming Certification coursework — comprehensive professional training in computer programming.
 
-**Institution**: IEFP - Centro de Formação Profissional de Vila Nova de Gaia  
-**Program**: EFA Programador Informático (Course #25.0082)  
-**Duration**: April 2024 - June 2025  
-**Schedule**: 6 hours/day, Monday-Friday  
-**Level**: Professional Certification (Level 4)
-
----
-
-## 📚 About This Program
-
-Year-long government-funded professional certification program designed to train job-ready computer programmers. Comprehensive curriculum covering multiple programming languages, databases, web development, and software engineering practices.
-
-**Note**: Planning early exit in April 2025 due to relocation to USA. All coursework through April will be documented here.
+**Institution:** IEFP - Centro de Formação Profissional de Vila Nova de Gaia  
+**Program:** EFA Programador Informático (Level 4)  
+**Duration:** November 2024 - May 2025  
+**Format:** 6 hours/day, Monday-Friday  
+**Total Hours:** 1,150 hours professional training
 
 ---
 
-## 🗂 Repository Structure
-🔄 Current ✅ Completed
-```text
-iefp-coursework/
-├── computer-architecture/
-│   ├── 0769-internal-computer-architecture/     ✅ Completed
-│   ├── 0770-devices-and-peripherals/            ✅ Completed
-│   ├── 0771-network-connections/                ✅ Completed
-│   ├── 0797-operating-systems-typologies/       ✅ Completed
-│   ├── 0798-utilities/                          ✅ Completed
-│   ├── 0799-local-area-networks/                ✅ Completed
-│   ├── 0800-additional-network-services/        ✅ Completed
-│   └── 0801-local-network-administration/       ✅ Completed
-│
-├── computer-fundamentals/
-│   ├── 0802-computational-processing/           ✅ Completed
-│   ├── 7846-computing-basic-concepts/           ✅ Completed
-│   ├── 0804-algorithms/                         ✅ Completed
-│   ├── 0805-data-structures/                    ✅ Completed
-│   └── 0806-programming-methodology-principles/ ✅ Completed
-│
-├── programming/
-│   ├── c/
-│   │   ├── 0809-c-programming-basics/           ✅ Completed
-│   │   └── 0810-c-cpp-programming-advanced/     🔄 Current
-│   ├── python/
-│   │   ├── 10793-python-fundamentals/           ✅ Completed
-│   │   └── 10794-advanced-python-programming/   ✅ Completed
-│   ├── java/
-│   │   ├── 0816-distributed-systems-programming-java/
-│   │   └── 10791-web-application-development-java/
-│   ├── csharp/
-│   │   ├── 3935-csharp-programming/
-│   │   └── 10792-aspnet-core-mvc-programming/
-│   └── 10795-software-development-security/     🔄 Current
-│
-├── databases/
-│   ├── 10788-sql-language-fundamentals/         ✅ Completed
-│   └── 3933-database-administration-for-programmers/     🔄 Current
-│
-├── systems-analysis/
-│   └── 0811-systems-analysis/                   ✅ Completed
-│
-├── project/
-│   └── 10790-programming-project/
-│
-└── work-based-learning/
-    ├── internship/
-    └── final-report/
+## 🎯 About This Program
 
+Year-long government-funded professional certification designed to train job-ready computer programmers. Comprehensive curriculum covering multiple programming languages, databases, web development, and software engineering practices.
+
+**Program Highlights:**
+- ✅ Multiple programming languages (C, Java, PHP, C#, Python, VB.NET)
+- ✅ Full-stack web development
+- ✅ Database design and administration
+- ✅ Distributed systems programming
+- ✅ Software security practices
+- ✅ Real-world projects and applications
+- ✅ Professional internship (Apr-May 2025)
+
+---
+
+## 🗂️ Repository Structure
+```
+professional-programming-portfolio/
+├── computer-architecture/          # System fundamentals
+│   ├── internal-architecture/      ✅ Completed
+│   ├── devices-peripherals/        ✅ Completed
+│   ├── networking/                 ✅ Completed
+│   └── operating-systems/          ✅ Completed
+│
+├── programming-fundamentals/       # Core concepts
+│   ├── algorithms/                 ✅ Completed
+│   ├── data-structures/            ✅ Completed
+│   └── methodology/                ✅ Completed
+│
+├── programming-languages/          # Multi-language training
+│   ├── c-programming/              🔄 Current
+│   ├── java-distributed-systems/   🔄 Current
+│   ├── php-web-development/        🔄 Current
+│   ├── python/                     ✅ Completed
+│   ├── csharp-dotnet/              ⏳ Upcoming
+│   └── visual-basic-net/           ⏳ Upcoming
+│
+├── databases/                      # Database training
+│   ├── sql-fundamentals/           ✅ Completed
+│   └── database-administration/    🔄 Current
+│
+├── web-development/                # Full-stack projects
+│   ├── html-css/                   🔄 Current
+│   ├── php-mysql/                  🔄 Current
+│   └── javascript/                 ⏳ Upcoming
+│
+├── systems-analysis/               # Software engineering
+│   └── analysis-design/            ✅ Completed
+│
+└── projects/                       # Portfolio projects
+    ├── forum-platform/             ✅ See separate repo
+    ├── student-management/         🔄 Current
+    └── final-capstone/             ⏳ Apr 2025
 ```
 
 ---
 
-## 🎯 Current Focus (November 2024)
-
-**Module 1: Advanced C Programming**
-- Pointers and dynamic memory
-- Structures and data structures
-- File I/O operations
-- Modular programming
-
-**Module 2: Database Management**
-- MySQL database design and administration
-- Database normalization (1NF, 2NF, 3NF, BCNF)
-- XAMPP stack configuration (Apache + MySQL + PHP)
-- phpMyAdmin for database management
-
-**Module 3: Three-Layer Architecture**
-- Presentation Layer (HTML/CSS, UI)
-- Business Logic Layer (PHP processing)
-- Data Layer (MySQL database, CRUD operations)
-
-**Module 4: PHP Web Development**
-- PHP fundamentals and syntax
-- Form handling (GET, POST)
-- Session management
-- MySQL integration (mysqli, PDO)
-
----
-
-## 📊 Progress Tracker
+## 📊 Current Progress
 ```
-Overall Progress: [███████▱▱▱▱▱▱▱] ~35% Complete
+Overall Completion: [████████▱▱▱▱▱▱] ~50% Complete
 
-✅ Completed:
+✅ Completed Modules:
+├─ Computer Architecture & Networks
+├─ Algorithms & Data Structures
 ├─ C Programming Fundamentals
-├─ Introduction to Databases
-└─ Git & Version Control Basics
+├─ Python Programming
+├─ SQL Fundamentals
+└─ Systems Analysis
 
-🔄 Currently Learning:
+🔄 Current Focus (Nov 2024):
 ├─ Advanced C Programming
-├─ Database Management (MySQL + XAMPP)
+├─ Database Administration (MySQL)
+├─ PHP Web Development
 ├─ Three-Layer Architecture
-├─ PHP Server-Side Development
-└─ HTML/CSS Web Development
+└─ Java Distributed Systems
 
-⬜ Upcoming (Dec 2024 - Apr 2025):
-├─ JavaScript & DOM Manipulation
-├─ Object-Oriented Programming (Java/C#)
-├─ Advanced Web Development
-├─ Project Management
-└─ Final Capstone Project
+⏳ Upcoming (Dec 2024 - Apr 2025):
+├─ JavaScript & DOM
+├─ Object-Oriented Programming (C#, Java)
+├─ ASP.NET Core MVC
+├─ Software Security
+├─ Final Capstone Project
+└─ Professional Internship (Apr-May 2025)
 ```
 
 ---
 
-## 🛠 Technologies Covered
+## 🛠️ Technologies & Skills
 
-**Programming Languages**:
-- C/C++ (Systems programming)
-- PHP (Server-side web development)
-- Java (Object-oriented programming)
-- C# (.NET development)
-- Python (Scripting and automation)
-- JavaScript (Client-side interactivity)
-- VB.NET (Windows applications)
-- COBOL (Legacy systems context)
+### Programming Languages
+**Systems:** C
+**Web Backend:** PHP, Java, C#  
+**Scripting:** Python, VB.NET  
+**Database:** SQL (MySQL, PostgreSQL)  
+**Frontend:** HTML, CSS, JavaScript
 
-**Web Technologies**:
-- HTML/CSS (Frontend fundamentals)
-- PHP (Backend)
-- ASP.NET (Microsoft web framework)
+### Frameworks & Tools
+- ASP.NET Core MVC
+- XAMPP (Apache + MySQL + PHP)
+- NetBeans (Java IDE)
+- Visual Studio
+- Git & GitHub
 
-**Database**:
-- MySQL
-- Database design and normalization
-- XAMPP stack
-- phpMyAdmin
-
-**Development Practices**:
-- Three-layer architecture
-- Software development lifecycle
-- Version control (Git)
-- Testing and debugging
+### Concepts & Practices
+- Three-layer architecture (presentation, logic, data)
+- CRUD operations
+- Database normalization (1NF-BCNF)
+- Session management & authentication
+- Software security best practices
+- Version control
 
 ---
 
-## 💻 Current Projects
+## 💻 Featured Projects
 
-### Project 1: Student Management System 🔄
-**Status**: In Progress  
-**Technologies**: PHP, MySQL, HTML, CSS, XAMPP
+### [PHP MySQL Forum Platform](https://github.com/alienmem/php-mysql-forum-platform)
+**Status:** ✅ Completed (Module 3933)  
+Full-stack forum with user authentication, admin panel, and content moderation
 
-**Features**:
+**Tech:** PHP • MySQL • HTML/CSS • Session Management  
+**Features:** User auth, CRUD operations, role-based access control, soft-delete pattern  
+**Skills:** Three-layer architecture, database design, security practices
+
+**[View Full Project →](https://github.com/alienmem/php-mysql-forum-platform)**
+
+---
+
+### Student Management System
+**Status:** 🔄 In Progress  
+**Tech:** PHP, MySQL, HTML, CSS, XAMPP
+
+**Features:**
 - Student registration (CRUD operations)
 - Normalized database schema
 - Form validation and error handling
 - Search and filter functionality
-- Three-layer architecture implementation
+- Three-layer architecture
 
-**Skills Practiced**:
+**Skills Practiced:**
 - Database design (ER diagrams → normalized tables)
 - SQL queries (INSERT, SELECT, UPDATE, DELETE, JOIN)
 - PHP-MySQL integration
@@ -180,113 +163,154 @@ Overall Progress: [███████▱▱▱▱▱▱▱] ~35% Complete
 
 ---
 
-### Project 2: [Upcoming]
-**Timeline**: December 2024  
-Details TBD as course progresses...
-
----
-
 ### Final Capstone Project
-**Timeline**: March-April 2025 (or earlier if leaving in April)  
-**Type**: Comprehensive web application
+**Timeline:** March-April 2025  
+**Status:** ⏳ Planning
 
-Will demonstrate all skills learned:
-- User authentication
+Comprehensive web application demonstrating:
+- User authentication system
 - Multiple database tables with relationships
 - Full three-layer architecture
 - Modern web interface
-- Proper security practices
+- Security best practices
+- Professional deployment
+
+---
+
+## 💡 What I'm Learning
+
+### Module 3933: Database Administration (Current)
+
+**Focus Areas:**
+- MySQL database design and administration
+- Database normalization (1NF, 2NF, 3NF, BCNF)
+- XAMPP stack configuration
+- phpMyAdmin for database management
+- Three-layer architecture implementation
+- PHP-MySQL integration
+- Session-based authentication
+- CRUD operations with security
+
+**Real-World Application:**
+Building complete web applications with proper separation of concerns (presentation, logic, data layers).
+
+---
+
+### Module 0810: Advanced C Programming (Current)
+
+**Topics:**
+- Pointers and dynamic memory allocation
+- Structures and complex data types
+- File I/O operations
+- Modular programming
+- Memory management best practices
+
+**Integration:**
+Combining with École 42 self-study for deeper C mastery.
+
+---
+
+## 🎓 Certification Details
+
+**Official Credential:**  
+Upon completion: **Level 4 Professional Certification in Computer Programming** (recognized in Portugal and EU)
+
+**Program Components:**
+- 1,150 hours classroom training
+- Practical hands-on projects
+- Professional internship (6 weeks)
+- Final capstone project
+- Industry-recognized certification
+
+**My Timeline:**  
+Completing through May 2025 before relocating to USA.
 
 ---
 
 ## 🔗 Integration with Other Learning
 
-This program complements my other studies:
+This IEFP program complements my other studies:
 
-**With 42 School (C Programming)**:
-- 42: Deep C fundamentals (pointers, memory, algorithms)
-- IEFP: Applied C in practical projects
-- Together: Strong foundation + real-world application
+### With École 42 (C Programming)
+- **42:** Deep C fundamentals (pointers, memory, algorithms)
+- **IEFP:** Applied C in practical projects
+- **Together:** Strong foundation + real-world application
 
-**With Harvard CS50-SQL**:
-- CS50-SQL: Database theory, design, optimization
-- IEFP: Practical integration (PHP + MySQL), administration
-- Together: Understanding + implementation
+### With Harvard CS50-SQL
+- **CS50-SQL:** Database theory, design, optimization
+- **IEFP:** Practical integration (PHP + MySQL), administration
+- **Together:** Understanding + implementation
 
-**With Python Learning**:
-- Python: High-level, modern scripting
-- IEFP: Server-side PHP (similar backend concepts)
-- Together: Multiple backend technologies = versatility
+### Building Comprehensive Skills
+- **Low-level:** C systems programming (42 + IEFP)
+- **Mid-level:** Java, C# object-oriented programming (IEFP)
+- **High-level:** PHP, Python web development (IEFP)
+- **Database:** SQL across all contexts (CS50 + IEFP)
 
 ---
 
 ## 🎯 Goals & Milestones
 
-**November 2024**:
-- [x] Complete C fundamentals module
-- [ ] Finish Advanced C section
-- [ ] Complete Student Management System project
-- [ ] Master MySQL basics and normalization
+**November 2024:**
+- [x] Complete C fundamentals
+- [ ] Finish Advanced C module
+- [ ] Complete Student Management System
+- [ ] Master MySQL and normalization
 
-**December 2024**:
+**December 2024:**
 - [ ] Complete PHP fundamentals
 - [ ] Start JavaScript module
-- [ ] Build second web application project
-- [ ] Understand three-layer architecture deeply
+- [ ] Build second web application
+- [ ] Deep understanding of three-layer architecture
 
-**January-February 2025**:
-- [ ] Complete JavaScript & DOM manipulation
-- [ ] Start OOP modules (Java or C#)
+**January-March 2025:**
+- [ ] Complete JavaScript & DOM
+- [ ] Complete OOP modules (Java/C#)
 - [ ] Build increasingly complex projects
-- [ ] Prepare for early exit
+- [ ] Start final capstone project
 
-**March-April 2025**:
-- [ ] Complete as many modules as possible before relocation
-- [ ] Build portfolio-worthy final project
-- [ ] Obtain partial completion certificate
-- [ ] Document all coursework thoroughly
-
----
-
-## 📜 Certification & Recognition
-
-**Official Credential**: Upon full completion, Level 4 Professional Certification in Computer Programming (recognized in Portugal and EU).
-
-**My Situation**: Relocating to USA in April/May 2025, may not complete full program. However:
-- ✅ All coursework documented in this repository
-- ✅ Projects demonstrate practical skills
-- ✅ Can explain comprehensive curriculum in interviews
-- ✅ May receive partial completion certificate
+**April-May 2025:**
+- [ ] Complete final capstone project
+- [ ] Professional internship (6 weeks)
+- [ ] Obtain Level 4 certification
+- [ ] Portfolio-ready for USA job market
 
 ---
 
-## 📚 Additional Resources
+## 📚 Academic Integrity
 
-- Course textbooks and materials (provided by IEFP)
-- [PHP Documentation](https://www.php.net/manual/en/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [W3Schools](https://www.w3schools.com/) - Quick reference
+All projects and assignments in this repository are my own work, completed as part of the IEFP professional training program. Projects marked "Group Project" indicate collaborative work with contributions clearly noted.
 
 ---
 
-## 🤝 Academic Integrity
+## 🤝 Connect
 
-All projects and assignments in this repository are my own work, completed as part of the IEFP program. Projects marked "Group Project" indicate collaborative work with contributions noted.
-
----
-
-## 🔗 Related Repositories
-
-Part of my complete software engineering journey:
-- 🏊 [42 School Journey](https://github.com/alienmem/42-school-roadmap) - C & Systems Programming
-- 🐍 [Python Foundations](https://github.com/alienmem/python-foundations) - Python & Full-Stack Path
-- 🗄️ [Harvard CS50-SQL](https://github.com/alienmem/harvard-cs50-sql) - Database Foundations (Completed)
-
-**Building from fundamentals → applications**
-
----
-
-## 📫 Connect
-
+**Antonio Cardoso**  
 📧 tony101123cardoso@icloud.com  
-🐙 [GitHub Profile](https://github.com/alienmem)
+💼 LinkedIn (Coming soon)  
+🔗 [GitHub Profile](https://github.com/alienmem)
+
+**Timeline:** Relocating to Connecticut, USA in June 2025 for Software Engineer opportunities
+
+---
+
+## 📝 License
+
+MIT License - Educational purposes
+
+---
+
+*Part of my journey from Mathematics to Software Engineering*
+
+---
+
+## 📸 TODO: Project Documentation
+- [ ] Add screenshots of Student Management System
+- [ ] Document database schemas with diagrams
+- [ ] Add code samples from best projects
+- [ ] Create demo videos of applications
+
+## 🌐 TODO: Deploy Projects
+- [ ] Deploy Student Management System to hosting platform
+- [ ] Add live demo links for web applications
+- [ ] Create project showcase page
